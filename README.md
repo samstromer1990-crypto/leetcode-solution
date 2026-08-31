@@ -30,4 +30,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0006-zigzag-conversion/) | Medium |
 <!---LeetCode Topics End-->
