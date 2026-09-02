@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
+| [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0054-spiral-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -66,4 +67,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
