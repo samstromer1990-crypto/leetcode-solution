@@ -35,11 +35,13 @@
 | [0009-palindrome-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0010-regular-expression-matching/) | Hard |
+| [0050-powx-n](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0050-powx-n/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
