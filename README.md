@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
@@ -63,6 +64,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
