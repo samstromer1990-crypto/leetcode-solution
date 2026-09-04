@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -64,6 +66,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
