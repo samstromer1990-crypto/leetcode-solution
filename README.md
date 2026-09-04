@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
@@ -61,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0015-3sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
