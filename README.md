@@ -56,6 +56,7 @@
 | [0012-integer-to-roman](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0058-length-of-last-word](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0058-length-of-last-word/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
