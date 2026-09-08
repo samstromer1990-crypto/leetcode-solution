@@ -12,6 +12,7 @@
 | [0016-3sum-closest](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 ## Binary Search
@@ -28,6 +29,7 @@
 | [0001-two-sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@
 | [0012-integer-to-roman](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0058-length-of-last-word/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -92,6 +95,7 @@
 | [0015-3sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
