@@ -17,6 +17,7 @@
 | [0055-jump-game](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +118,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
