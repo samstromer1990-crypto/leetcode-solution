@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [0013-roman-to-integer](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0050-powx-n/) | Medium |
+| [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@
 | [0011-container-with-most-water](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
+| [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
