@@ -1,17 +1,18 @@
-import itertools
+import math
 
 class Solution:
     def getPermutation(self, n: int, k: int) -> str:
-        s = 0
-        if n == 0:
-            return '0'
-        for i in range(0,n+1):
-            s = s*10 +i
-        s = str(s)
-        g = itertools.permutations(s)
-        h =[''.join(p) for p in g]
-        return h[k-1]
-
-
-
+        numbers = [str(i) for i in range(1, n + 1)]
+        k -= 1  # Convert to 0-indexed
         
+        factorial = math.factorial(n - 1)
+        result = []
+        
+        for i in range(n - 1, 0, -1):
+            index = k // factorial
+            result.append(numbers.pop(index))
+            k %= factorial
+            factorial //= i
+            
+        result.append(numbers[0])
+        return ''.join(result)
