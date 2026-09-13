@@ -54,6 +54,7 @@
 | [0048-rotate-image](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0055-jump-game](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0062-unique-paths/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +139,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
