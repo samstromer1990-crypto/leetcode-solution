@@ -59,6 +59,7 @@
 | [0060-permutation-sequence](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0067-add-binary/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0067-add-binary/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,4 +154,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0062-unique-paths/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
