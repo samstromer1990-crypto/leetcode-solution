@@ -20,6 +20,7 @@
 | [0063-unique-paths-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0068-text-justification/) | Hard |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -80,6 +81,7 @@
 | [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0068-text-justification/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@
 | [0054-spiral-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0068-text-justification/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
