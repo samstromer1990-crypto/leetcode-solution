@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@
 | [0063-unique-paths-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
+| [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,11 +109,13 @@
 | [0018-4sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
+| [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0055-jump-game/) | Medium |
+| [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
