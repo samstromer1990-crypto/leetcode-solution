@@ -90,6 +90,7 @@
 | [0058-length-of-last-word](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0071-simplify-path/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +183,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0071-simplify-path/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
