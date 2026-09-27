@@ -86,6 +86,7 @@
 | [0014-longest-common-prefix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0067-add-binary/) | Easy |
@@ -95,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0063-unique-paths-ii/) | Medium |
@@ -136,6 +138,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -188,6 +191,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
