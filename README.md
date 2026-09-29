@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
@@ -115,6 +116,7 @@
 | [0016-3sum-closest](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Greedy
