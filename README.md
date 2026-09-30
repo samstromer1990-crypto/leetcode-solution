@@ -98,6 +98,7 @@
 | [0067-add-binary](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0071-simplify-path/) | Medium |
+| [0072-edit-distance](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | [0063-unique-paths-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
