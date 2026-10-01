@@ -23,6 +23,7 @@
 | [0064-minimum-path-sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0068-text-justification/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -47,6 +48,7 @@
 | [0013-roman-to-integer](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -137,6 +139,7 @@
 | [0059-spiral-matrix-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
