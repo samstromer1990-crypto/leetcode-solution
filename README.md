@@ -25,6 +25,7 @@
 | [0068-text-justification](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -125,6 +126,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Greedy
@@ -164,6 +166,7 @@
 | [0018-4sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Trie
@@ -221,4 +224,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
