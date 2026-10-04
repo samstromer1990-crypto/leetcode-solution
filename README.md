@@ -158,6 +158,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
+| [0077-combinations](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0077-combinations/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
