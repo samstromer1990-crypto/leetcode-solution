@@ -26,6 +26,7 @@
 | [0073-set-matrix-zeroes](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0078-subsets/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -161,6 +162,7 @@
 | [0022-generate-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0078-subsets/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0078-subsets/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
