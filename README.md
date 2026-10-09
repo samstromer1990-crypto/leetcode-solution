@@ -28,6 +28,7 @@
 | [0075-sort-colors](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0079-word-search/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -132,6 +133,7 @@
 | [0027-remove-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Greedy
