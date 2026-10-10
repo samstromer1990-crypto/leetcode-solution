@@ -29,6 +29,7 @@
 | [0078-subsets](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -39,6 +40,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
