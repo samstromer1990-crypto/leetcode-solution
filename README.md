@@ -66,6 +66,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Greedy
