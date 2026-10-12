@@ -112,6 +112,7 @@
 | [0071-simplify-path](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@
 | [0064-minimum-path-sum](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -173,6 +175,7 @@
 | [0077-combinations](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
