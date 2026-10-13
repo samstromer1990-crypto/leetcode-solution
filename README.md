@@ -67,6 +67,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
