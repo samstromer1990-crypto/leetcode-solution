@@ -114,6 +114,7 @@
 | [0072-edit-distance](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0306-additive-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0306-additive-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@
 | [0078-subsets](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0306-additive-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0306-additive-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
