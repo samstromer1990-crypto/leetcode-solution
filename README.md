@@ -33,6 +33,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0090-subsets-ii/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -188,6 +189,7 @@
 | [0077-combinations](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0079-word-search/) | Medium |
+| [0090-subsets-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0306-additive-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0306-additive-number/) | Medium |
 ## Sorting
@@ -233,6 +235,7 @@
 | [0029-divide-two-integers](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0090-subsets-ii/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
