@@ -5,12 +5,13 @@
 #         self.next = next
 class Solution:
     def reverseBetween(self, head: ListNode | None, left: int, right: int) -> ListNode | None:
-        if left > right or not head:
+
+        if left > right:
             return head
 
-        def linked_list_to_list(node):
+        def linked_list_to_list(head):
             result = []
-            current = node
+            current = head
             while current is not None:
                 result.append(current.val)
                 current = current.next
@@ -18,10 +19,33 @@ class Solution:
 
         Lis = linked_list_to_list(head)
 
-        if len(Lis) <= 1 or left == right:
-            return head
+        if len(Lis) == 0:
+            return head 
 
-        Lis[left - 1:right] = reversed(Lis[left - 1:right])
+        def swap_with_more(Lis):
+            for i in range(len(Lis)):
+                if 0 < i < len(Lis) - 1:
+                    if i - 1 == left - 1 and i + 1 == right - 1:
+                        Lis[i-1], Lis[i+1] = Lis[i+1], Lis[i-1] 
+                        break
+                    else:
+                        continue
+                else:
+                    sub = Lis[left - 1:right]
+                    sub.reverse()
+                    Lis[left - 1:right] = sub
+                    break
+            return Lis
+        
+        def swap_with_less(Lis):
+            if len(Lis) >= 2:
+                Lis[0], Lis[1] = Lis[1], Lis[0]
+            return Lis
+
+        if len(Lis) == 1:
+            Output = swap_with_less(Lis)
+        else:
+            Output = swap_with_more(Lis)
 
         def list_to_linked_list(lst):
             if not lst:
@@ -36,4 +60,6 @@ class Solution:
                 
             return new_head
 
-        return list_to_linked_list(Lis)
+        output = list_to_linked_list(Output)
+
+        return output
