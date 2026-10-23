@@ -123,6 +123,7 @@
 | [0072-edit-distance](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0306-additive-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0306-additive-number/) | Medium |
 ## Dynamic Programming
@@ -193,6 +194,7 @@
 | [0078-subsets](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0306-additive-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0306-additive-number/) | Medium |
 ## Sorting
