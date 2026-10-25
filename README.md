@@ -139,6 +139,7 @@
 | [0072-edit-distance](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0085-maximal-rectangle/) | Hard |
 | [0091-decode-ways](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0091-decode-ways/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Two Pointers
@@ -195,6 +196,7 @@
 | [0079-word-search](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0306-additive-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0306-additive-number/) | Medium |
 ## Sorting
@@ -332,8 +334,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
