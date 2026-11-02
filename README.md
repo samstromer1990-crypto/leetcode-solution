@@ -121,6 +121,7 @@
 | [0022-generate-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0067-add-binary/) | Easy |
@@ -138,6 +139,7 @@
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0055-jump-game](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0063-unique-paths-ii/) | Medium |
@@ -261,6 +263,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0085-maximal-rectangle/) | Hard |
@@ -270,6 +273,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
