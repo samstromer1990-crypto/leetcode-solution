@@ -6,30 +6,26 @@
 #         self.right = right        
 class Solution:
     def recoverTree(self, root: TreeNode | None) -> None:
-        nodes = []
+        first = second = prev = None
+        
         def inorder(node):
+            nonlocal first, second, prev
             if not node:
                 return
+            
             inorder(node.left)
-            nodes.append(node)
+            
+            # If this node is smaller than the previous one, we found a violation
+            if prev and prev.val > node.val:
+                if not first:
+                    first = prev  # The first time it happens, 'prev' is the wrong node
+                second = node     # The second time (or final update), 'node' is the wrong node
+            prev = node
+            
             inorder(node.right)
             
         inorder(root)
         
-        first = None
-        second = None
-        for i in range(len(nodes) - 1):
-            if nodes[i].val > nodes[i + 1].val:
-                if not first:
-                    first = nodes[i]
-                second = nodes[i + 1]
-                
+        # Swap the values of the two misplaced nodes
         if first and second:
-            first.val, second.val = second.val, first.val 
-
-
-
-    
-        
-         
-        
+            first.val, second.val = second.val, first.val
