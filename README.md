@@ -317,6 +317,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0100-same-tree/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +355,7 @@
 | [0096-unique-binary-search-trees](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0100-same-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +364,7 @@
 | [0096-unique-binary-search-trees](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0100-same-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -374,4 +377,8 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
