@@ -16,6 +16,7 @@
 | [0031-next-permutation](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
@@ -48,6 +49,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
