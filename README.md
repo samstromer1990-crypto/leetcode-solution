@@ -38,6 +38,7 @@
 | [0085-maximal-rectangle](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0090-subsets-ii/) | Medium |
+| [0118-pascals-triangle](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -159,6 +160,7 @@
 | [0096-unique-binary-search-trees](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0115-distinct-subsequences/) | Hard |
+| [0118-pascals-triangle](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Two Pointers
