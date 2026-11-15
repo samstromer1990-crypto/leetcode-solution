@@ -20,6 +20,7 @@
 | [0047-permutations-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -60,6 +61,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Hash Table
@@ -149,6 +151,7 @@
 | [0010-regular-expression-matching](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0053-maximum-subarray](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0063-unique-paths-ii/) | Medium |
