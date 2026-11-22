@@ -147,6 +147,7 @@
 | [0093-restore-ip-addresses](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0306-additive-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0306-additive-number/) | Medium |
 ## Dynamic Programming
@@ -193,6 +194,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Greedy
