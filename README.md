@@ -45,6 +45,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -79,6 +80,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -407,4 +409,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0100-same-tree/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
