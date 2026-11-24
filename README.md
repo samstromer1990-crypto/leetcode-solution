@@ -46,6 +46,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0169-majority-element](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -218,6 +219,7 @@
 | [0074-search-a-2d-matrix](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0085-maximal-rectangle/) | Hard |
+| [0130-surrounded-regions](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0130-surrounded-regions/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +348,7 @@
 | [0098-validate-binary-search-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0100-same-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0130-surrounded-regions/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,8 +412,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0100-same-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0130-surrounded-regions/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0130-surrounded-regions/) | Medium |
 <!---LeetCode Topics End-->
