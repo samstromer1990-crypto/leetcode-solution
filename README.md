@@ -153,6 +153,7 @@
 | [0115-distinct-subsequences](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0306-additive-number](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0306-additive-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/samstromer1990-crypto/leetcode-solution/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
